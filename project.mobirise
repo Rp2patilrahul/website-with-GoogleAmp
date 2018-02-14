@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "RahulPatil",
+    "name": "Rahul Pradip Patil",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -49,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Rahul Patil",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -260,7 +260,8 @@
               "text-align": "left"
             },
             ".mbr-section-title P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_name": "features10",
