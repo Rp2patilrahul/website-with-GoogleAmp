@@ -1,2 +1,1 @@
-# Mobirise
-GitHub Pages
+# GitHub Pages
